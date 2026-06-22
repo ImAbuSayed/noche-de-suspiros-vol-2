@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/noche-de-suspiros-vol-2/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Noche de suspiros, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-suspiros-vol-2/) |
+| **Get License** | [Music Rights & Licensing for Noche de suspiros, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/noche-de-suspiros-vol-2/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `08e36f9d787b8eda443f09443ac26f8d84d6e7c240203bd5ade9dd766cbed290` |
 | **Timestamp** | June 23, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
